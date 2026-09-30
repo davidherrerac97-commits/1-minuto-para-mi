@@ -1,0 +1,6 @@
+{
+  "name": "1 Minuto Para Mí - HUV",
+  "description": "60 segundos de pausa activa para cuidar al que cuida en el Hospital Universitario del Valle. Respiración, estiramiento, relajación y descanso visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
